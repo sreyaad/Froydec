@@ -38,4 +38,4 @@ Accuracy in both cases was 99.96 and 99.94 respectively.
  Our model showed an accuracy of 99.89 on test data with XGBClassifier.
  
  ## Conclusion-
- All the 3 above models explained above, show amazing results. We choose XGBClassifier as our final algorithm as it shows an overall better accuracy on training and testing data as compared to other 2. 
+ All the 3 above models explained above, show amazing results. We choose *Random Forest Classifier* as our final algorithm as it shows an overall better accuracy as compared to other 2. 
